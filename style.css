@@ -1,0 +1,61 @@
+body{
+   font-family: 'Montserrat', sans-serif;
+   
+   /*  */
+
+   background-color: gainsboro;
+}
+.was-validated{
+   font-family: 'Syne Mono', monospace;
+   font-weight: 600;
+}
+.navigation{
+   padding-top: 5%;
+   text-align: center;
+   
+}
+.navbar-brand{
+   font-size: 200%;
+}
+.content{
+   margin-left: 0;
+   margin-right: auto;
+}
+
+.navbar-item{
+   padding: 0.5rem;
+   font-weight: bold;
+   font-size: 120%;
+}
+.check{
+   padding: 2rem;
+}
+form{
+   text-align: center;
+}
+.feature{
+   text-align: center;
+   padding: 7% 15% ;
+}
+.was-validated{
+   padding: 2% 5%;
+}
+.textarea{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: bold;
+}
+.yeah{
+   transform:scale(4);
+   color: green;
+}
+.container-fluid{
+   /*padding: 1% 2%;*/
+   background-color: cadetblue;
+   margin: 0;
+   
+
+}
+footer{
+   background-color: floralwhite;
+} 
+
